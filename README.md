@@ -1,5 +1,5 @@
-# Storey
-Local file manager using Java and Spring 5
+# 📦 Storey
+Local files manager I made as a little project to share files within my house's network.
 
 ## Technologies used
 - Java
